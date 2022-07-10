@@ -1,4 +1,7 @@
 {
+  "extensions": [
+    "lostintangent.workspace-layout"
+  ],
   "workspace": {
     "view": "readme", // Displays the project's readme in a sidebar
     "files": [
